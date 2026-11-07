@@ -1,0 +1,6 @@
+data/*.csv
+data/*.json
+reports/
+models/
+.venv/
+__pycache__/
